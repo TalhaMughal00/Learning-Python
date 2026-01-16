@@ -1,4 +1,4 @@
-### My Python Learning Journey
+## My Python Learning Journey
 
 This repository is where I practice Python and document my learning journey. I started this to improve my programming skills step by step, by writing small programs, solving exercises, and experimenting with new concepts.
 
