@@ -22,32 +22,9 @@ This repository is where I practice Python and document my learning journey. I s
  – Great for clear explanations and practical examples
 ### 2. Python Crash Course by Eric Matthes – Helped me understand Python fundamentals and guided me through small projects
 
-How to Run the Code
+## Notes
+- This repository is purely for learning purposes.
+- Code may be incomplete, experimental, or written in multiple ways as I try different approaches.
 
-Make sure Python 3.x is installed
-
-Open the terminal or command prompt
-
-Navigate to the folder containing the file
-
-Run the file using:
-
-python filename.py
-
-Progress
-
-Completed: Python basics, loops, and functions
-
-In progress: Object-oriented programming
-
-Planned: File handling, modules, working with APIs, testing
-
-Notes
-
-This repository is purely for learning purposes.
-
-Code may be incomplete, experimental, or written in multiple ways as I try different approaches.
-
-License
-
+## License
 For learning and practice purposes only
